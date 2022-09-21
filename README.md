@@ -1,8 +1,9 @@
 # CompAnalysisCACM
 A repository to conduct a comparative analysis on community-aware centrality measures.
-The paper is submitted for review.
 
-Comments and questions are welcome, contact: `stephany.rajeh(at)u-bourgogne.fr`
+Following is the reference for the paper: Rajeh, S., Savonnet, M., Leclercq, E., & Cherifi, H. (2022). <i> Comparative evaluation of community-aware centrality measures. </i> Quality & Quantity, 1-30. It can be accessed at: https://arxiv.org/pdf/2205.06995.pdf
+
+Comments and questions are welcome, please contact: `stephany.rajeh(at)u-bourgogne.fr`
 
 The sources of datasets used in the study are available within the article.
 
